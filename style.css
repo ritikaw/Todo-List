@@ -96,7 +96,7 @@ input[type="text"] {
 
 input:focus {
     outline: none;
-    background-color: #fdfbef;
+    background-color: #f4fdef;
 }
 
 .done span {
@@ -144,4 +144,9 @@ input:focus {
     text-align: center;
     margin: 2rem;
     width: 26rem;
+}
+
+img{
+    height: 134px;
+    width: 134px;
 }
