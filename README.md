@@ -7,7 +7,6 @@ This is a simple responsive todo list application built using HTML, CSS, and van
 - Add new tasks
 - Mark tasks as complete
 - Delete tasks
-- Save tasks to local storage
 
 # Installation
 
